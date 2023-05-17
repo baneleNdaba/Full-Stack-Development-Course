@@ -13,3 +13,10 @@ ID Selector:#heading{color:blue}
 Class Selector:.para{color:blue}
 Grouping Selector:p,h1{color:blue}
 *(All elements):*{color:blue}
+
+Css Box model: is a box that wraps around every html element
+Box Modelcomponents: 
+Margin 
+Border
+Padding
+Content
