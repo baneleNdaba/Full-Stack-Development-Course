@@ -20,3 +20,18 @@ Margin
 Border
 Padding
 Content
+
+# Bootstrap
+Bootstrap is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of pre-designed HTML, CSS, and JavaScript components, such as navigation bars, buttons, forms, grids, and more. Developers can use these components to quickly create consistent and visually appealing user interfaces without starting from scratch. Bootstrap also includes a responsive grid system that helps in creating layouts that adapt to different screen sizes.
+
+# JavaScript
+Javacript can be used internally eg:
+<script>
+        var myheading= document.querySelector('h1')
+
+        myheading.textContent='Volkswagen GTI';
+</script>
+
+Javacript can be used externally eg:
+<script src="scripts/myscript.js"></script>
+(put the exact code used internally in the myscript.js)
