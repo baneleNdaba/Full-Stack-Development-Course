@@ -1,6 +1,26 @@
 # Full-Stack-Development-Course
 This course is designed for individuals interested in gaining a comprehensive understanding of full stack web development. I will learn how to develop dynamic web applications from front-end to back-end, integrating various technologies and frameworks.
 
+# HTML
+Hypertext Markup Language
+It is the standard markup language for Webpages
+
+Elements(Stucture)
+<!DOCTYPE>
+<HTML>
+        <body>
+                --content
+        </body>
+</HTML>
+
+Attributes
+Lang
+Width
+Alt
+Src
+Script
+Height
+Href
 
 # CSS
 Cascading Style Sheets.
@@ -35,3 +55,18 @@ Javacript can be used internally eg:
 Javacript can be used externally eg:
 <script src="scripts/myscript.js"></script>
 (put the exact code used internally in the myscript.js)
+
+
+# JSON
+Javascript Object Notation
+Is a lightweight data interchange format
+
+# JQuery
+Is a Javascript library simplifying Javascript programming
+
+# Backend Databases
+SQL
+MySQL
+PostgreSQL
+MongoDB
+NoSQL
